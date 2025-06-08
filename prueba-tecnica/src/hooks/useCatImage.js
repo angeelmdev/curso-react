@@ -18,4 +18,4 @@ export function useCatImage ({ fact }) {
   }, [fact])
 
   return { imageUrl }
-} // { imageUrl: 'https:// ...' }
+}
