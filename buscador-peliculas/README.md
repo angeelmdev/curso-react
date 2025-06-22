@@ -4,8 +4,6 @@ Crea una aplicación para buscar películas
 
 API a usar: - https://www.omdbapi.com/
 
-API KEY: 9d321c38
-
 Requerimientos:
 
 - Necesita mostrar un input para buscar la película y un botón para buscar.
